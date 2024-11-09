@@ -1,0 +1,9 @@
+#ignore the main database file
+db.sqlite3
+
+#ignore the compiled python bytecode
+__pycache__/
+*.pyc
+
+#ignore django migrations
+*/migrations/
